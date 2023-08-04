@@ -24,3 +24,31 @@ Trata-se de um estudo baseado em diversas fontes,  como o site Statista, uma pla
 * **América do Norte e Ásia, maiores arrecadações:** As regiões da América do Norte e da Ásia foram as regiões que mais contribuiram para a arrecadação do YouTube em 2022, com registros de US$ 9,1 e US$ 9,0 Bilhões, respectivamente. Que somadas representaram 62,8% de receita da plataforma no ano. 
 * **Ásia X Europa, maior diferença registrada:** Entre a Ásia, segunda região com maior volume em arrecadação, e a Europa, 3ª maior, é possível observar uma diferença muito brusca de receita, entorno de US$ 3.9 bilhões 
 * Oceania foi o continente que menos contribuiu para a arrecadação do Youtube no ano, entorno de US$406 milhões.
+
+### 2.2 Receita X País:
+* Estados Unidos foi o país onde o YouTube mais obteve de receita no ano, entorno de US$ 6,5 Bilhões. 
+* Estados Unidos X China, maior diferença registrada - Entre os Estados Unidos, região com maior volume em arrecadação, e a China, 2ª maior, é possível observar uma diferença muito brusca de receita, entorno de US$ 2.5 bilhões.
+* O menor volume de arrecadação, a nível país, se deu pela soma dos montantes arrecadados pelos "Outros-América do Sul", conjunto de Países da América do Sul, que contempla A Guiana, Suriname e Guiana Francesa. Juntos, esses países arrecadaram um total de US$ 4.1 milhões (0,014% do percentual geral).
+
+## 3. Produtos: 
+* Além dos vídeos, o YouTube dispõe de alguns outros recursos ou produtos que lhe servem como fonte de monetização, não somente para a plataforma, como também para os criadores de conteúdo. Dentre os que se destacam são: Anúncios, YouTube Premium, YouTube Market, Super Chat, Super Stickers, Super Thanks.
+* **Anúncios:** Mensagens publicitárias em formato de vídeo que são exibidas antes, durante ou após os vídeos que os usuários assistem na plataforma. Eles são uma forma de monetização para os criadores de conteúdo e uma fonte de receita para o YouTUbe e os anunciantes. 
+* **YouTube Market:** O YouTube Market é um mercado de anúncios online que permite que anunciantes comprem espaços publicitários em vídeos do YouTube. O mercado é operado pelo Google e está disponível para anunciantes de todos os tamanhos.
+* **YouTube Premium:** É um serviço de assinatura pago oferecido pelo YouTube, que proporciona aos usuários uma experiência mais aprimorada e livre de anúncios ao utilizar a plataforma. Ao assinar o YouTube Premium, os usuários têm acesso a vários outros benefícios, tais como: Download de vídeos, Acesso ao YouTube Originals, Acesso ao conteúdo do YouTube Premium.
+* **Super Chat:** Uma forma de apoiar os criadores do YouTube e destacar suas mensagens no bate-papo durante transmissões ao vivo. Quando você envia um Super Chat, sua mensagem é exibida em destaque no bate-papo e permanece lá por um período de tempo determinado pelo valor do seu Super Chat. Você também pode adicionar emoticons e animações ao seu Super Chat para torná-lo ainda mais especial.
+* **Super Stickers:** Tratam-se de adesivos animados que você pode comprar e enviar durante uma transmissão ao vivo do YouTube. Eles são uma ótima maneira de se destacar da multidão, mostrar o apoio de um usuário ao seu criador favorito e interagir com outros espectadores.
+* **Super Thanks:** Uma terceira e outra forma de apoiar os criadores de conteúdo do YouTube e destacar mensagens próprias nos comentários. Quando você envia um Super Thanks, sua mensagem é exibida em destaque nos comentários e permanece lá por um período de tempo determinado pelo valor do seu Super Thanks. Você também pode adicionar emoticons e animações ao seu Super Thanks para torná-lo ainda mais especial.
+  
+* Os anúncios foi a principal fonte de arrecadação para o YouTube no ano de 2022, com um total arrecadado de US$ 12,6 Bilhões ( 44% do montante total arrecadado).
+* O "Super Thanks" foi o produto que menos gerou receita ao YouTube em 2022, com um total arrecadado de US$ 1,5 Bilhões ( 5,5% do montante total arrecadado).
+
+## 4. Tráfego X Visitações à plataforma:
+### 4.1 Usuários Únicos X Continente:
+* Total Usuários Únicos em 2022: Em 2022 entregou seus conteúdos para mais de 35 Bilhões de usuários (Total geral de 35.943.200.000), com uma média de entrega para 2,99 Bilhões de usuários por mês.  
+* A Ásia foi o continente que teve o maior número de usuários que consumiram conteúdos no Youtube, com um total de 22.436.920.000 (62,42% do total). Enquanto a Oceania foi o que apresentou o menor índice, com um total de 382.280.000 (1,06% do total).
+
+### 4.2 Usuários Únicos X País:
+* Como era de se esperar, devido aos resultados do continente da Ásia, a China, Índia, Japão e conjunto de outros países menores da Ásia, estão no top 6 países que mais apresentaram visitações e consumos únicos de conteúdos na plataforma. Com números de 13,4 bilhões, 2,4 bilhões, 1,1 bilhões e 3,2 bilhões, respectivamente.
+
+
+
