@@ -9,7 +9,6 @@ Trata-se de um estudo baseado em diversas fontes,  como o site Statista, uma pla
 **Ferramentas Utilizadas:**
 
 ![Power BI](https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png)
-
 ## 1. Contexto Geral | Análises Gerais:
 * O painel de "Visão Geral" visa retornar informações e dados gerais acerca de dois pontos específicos: Receita e Tráfego na Plataforma.
 
