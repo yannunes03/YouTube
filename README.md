@@ -50,5 +50,9 @@ Trata-se de um estudo baseado em diversas fontes,  como o site Statista, uma pla
 ### 4.2 Usuários Únicos X País:
 * Como era de se esperar, devido aos resultados do continente da Ásia, a China, Índia, Japão e conjunto de outros países menores da Ásia, estão no top 6 países que mais apresentaram visitações e consumos únicos de conteúdos na plataforma. Com números de 13,4 bilhões, 2,4 bilhões, 1,1 bilhões e 3,2 bilhões, respectivamente.
 
+## Curiosidades:
+* **Períodos com o maior e menor volume em receita lado a lado:** Com base neste relatório gerencial estimado, é possível observar que entre os meses de Junho e Julho ocorreu uma queda brusca e atípica de receita da plataforma. Como também os registros de maior e menor volume de arrecadação da plataforma no ano. 
+* Bloqueio de ações na Rússia 2022 devido à invasão russa na Ucrânia: No dia 02 de Março de 2022, o YouTube bloqueou todas as ações na plataforma da Rússia em resposta à invasão russa na Ucrânia. Segundo à empresa esse decisão foi tomada para garantir a segurança de todos os outros usuários e funcionários da plataforma. O bloqueio se aplicou a todos os vídeos  e canais financiados pelo governo russo, incluindo vídeos de notícias, análises e opiniões, como também a monetização de todos os canais na Rússia.  
+
 
 
