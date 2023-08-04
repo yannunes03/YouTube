@@ -1,4 +1,4 @@
-![YouTube](http://www.w3.org/2000/svg)
+![YouTube](https://classic.exame.com/wp-content/uploads/2017/08/new-youtube-logo-840x402.jpg?quality=70&strip=info&w=840)
 
 | PROJETO SIMULADO - DADOS NÃO OFICIAIS | 
 
