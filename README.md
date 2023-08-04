@@ -1,4 +1,5 @@
-# YouTube
+![YouTube](http://www.w3.org/2000/svg)
+
 | PROJETO SIMULADO - DADOS NÃO OFICIAIS | 
 
 Um projeto desenvolvido em Power BI, dessa vez com foco no YouTube, a maior e mais popular plataforma de vídeo e streaming do mundo. A idéia é criar e simular um painel gerencial e interativo para visualização de dados e informações dos resultados da plataforma em um determinado período. Neste primeiro momento  foram gerados e estimados dados quanto ao ano de 2022.
