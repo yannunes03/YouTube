@@ -1,0 +1,12 @@
+>>> REFERÊNCIAS <<<
+- https://www.youtube.com/
+- https://blog.youtube/intl/pt-br/news-and-events/
+
+>>>ABA - VISÃO GERAL<<<
+
+- Fundo do dashboard: Gelo próximo do branco
+- Disponibilizar Filtros no centro da tela, ou região superior e central da tela, tal como o YouTube faz em sua plataforma oficial (Fundo Cinza Claro e Fonte cor preta).
+
+- Filtros a disponibilizar: Ano; Mês; Continente; País
+
+
